@@ -1,7 +1,0 @@
-C:\Users\VC\Desktop\Apps\Day1\2\2\obj\Debug\2.csproj.AssemblyReference.cache
-C:\Users\VC\Desktop\Apps\Day1\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
-C:\Users\VC\Desktop\Apps\Day1\2\2\bin\Debug\2.exe.config
-C:\Users\VC\Desktop\Apps\Day1\2\2\bin\Debug\2.exe
-C:\Users\VC\Desktop\Apps\Day1\2\2\bin\Debug\2.pdb
-C:\Users\VC\Desktop\Apps\Day1\2\2\obj\Debug\2.exe
-C:\Users\VC\Desktop\Apps\Day1\2\2\obj\Debug\2.pdb
