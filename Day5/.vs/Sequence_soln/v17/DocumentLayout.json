@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Documents\\try1\\Sequence_soln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F90A39E-C0F0-4241-BA35-698C3F41B391}|Sequence_Statements\\Sequence_Statements.csproj|c:\\users\\vc\\documents\\try1\\sequence_soln\\sequence_statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F90A39E-C0F0-4241-BA35-698C3F41B391}|Sequence_Statements\\Sequence_Statements.csproj|solutionrelative:sequence_statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Documents\\try1\\Sequence_soln\\Sequence_Statements\\Program.cs",
+              "RelativeDocumentMoniker": "Sequence_Statements\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Documents\\try1\\Sequence_soln\\Sequence_Statements\\Program.cs",
+              "RelativeToolTip": "Sequence_Statements\\Program.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAAG8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T04:32:12.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
