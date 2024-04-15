@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bulls_Cows_game/1.0.0": {
+        "runtime": {
+          "Bulls_Cows_game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bulls_Cows_game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
