@@ -37,12 +37,12 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\VC\\AppData\\Local\\Temp\\.vsdbgsrc\\7da02915a36f46c74bd5c1ac234379fccfebcab61f44791053f1e20af314075b\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7da02915a36f46c74bd5c1ac234379fccfebcab61f44791053f1e20af314075b\\Program.cs",
-              "ToolTip": "C:\\Users\\VC\\AppData\\Local\\Temp\\.vsdbgsrc\\7da02915a36f46c74bd5c1ac234379fccfebcab61f44791053f1e20af314075b\\Program.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7da02915a36f46c74bd5c1ac234379fccfebcab61f44791053f1e20af314075b\\Program.cs [Read Only]",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAACAAAA",
+              "ToolTip": "C:\\Users\\VC\\AppData\\Local\\Temp\\.vsdbgsrc\\7da02915a36f46c74bd5c1ac234379fccfebcab61f44791053f1e20af314075b\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7da02915a36f46c74bd5c1ac234379fccfebcab61f44791053f1e20af314075b\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T17:47:24.445Z",
-              "EditorCaption": " [Read Only]"
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -54,8 +54,7 @@
               "RelativeToolTip": "ITemployeeManagementApp\\Program.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAQwBgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T17:15:28.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T17:15:28.245Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "ITemployeeManagementModel\\GovRUles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T16:58:59.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T16:58:59.236Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "ITemployeeManagementModel\\XYZ.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T16:55:04.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T16:55:04.076Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "ITemployeeManagementModel\\ABC.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T16:51:43.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T16:51:43.261Z"
             }
           ]
         }
