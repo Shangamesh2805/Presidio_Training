@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VC\\Documents\\Daily_progress\\Day7\\RequestTrackerSolution\\RequestTrackerModel\\RequestTrackerModel.csproj",
+      "projectUniqueName": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\RequestTrackerModel.csproj",
       "projectName": "RequestTrackerModel",
-      "projectPath": "C:\\Users\\VC\\Documents\\Daily_progress\\Day7\\RequestTrackerSolution\\RequestTrackerModel\\RequestTrackerModel.csproj",
+      "projectPath": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\RequestTrackerModel.csproj",
       "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VC\\Documents\\Daily_progress\\Day7\\RequestTrackerSolution\\RequestTrackerModel\\obj\\",
+      "outputPath": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
