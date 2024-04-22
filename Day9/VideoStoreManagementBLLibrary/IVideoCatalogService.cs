@@ -14,6 +14,7 @@ namespace VideoStoreManagementBLLibrary
         List<Video> GetAllVideos();
         List<Video> GetAvailableVideos();
         List<Video> GetVideosByGenre(string genre);
+        bool RentVideoToCustomer(int videoId, int customerId);
     }
 
 }

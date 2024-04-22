@@ -34,6 +34,9 @@
             "projectReferences": {
               "C:\\Users\\VC\\Desktop\\Task1\\Day9\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj": {
                 "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj"
+              },
+              "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj": {
+                "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj"
               }
             }
           }

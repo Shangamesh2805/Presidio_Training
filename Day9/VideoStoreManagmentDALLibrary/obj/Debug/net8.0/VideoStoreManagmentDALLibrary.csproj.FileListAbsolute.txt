@@ -1,5 +1,16 @@
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\bin\Debug\net8.0\VideoStoreManagmentDALLibrary.deps.json
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\bin\Debug\net8.0\VideoStoreManagmentDALLibrary.dll
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\bin\Debug\net8.0\VideoStoreManagmentDALLibrary.pdb
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\bin\Debug\net8.0\Video_Store_ManagementModels.dll
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\bin\Debug\net8.0\Video_Store_ManagementModels.pdb
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.csproj.AssemblyReference.cache
 C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.AssemblyInfoInputs.cache
 C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.AssemblyInfo.cs
 C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.csproj.CoreCompileInputs.cache
 C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.sourcelink.json
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoSto.14A78F87.Up2Date
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.dll
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\refint\VideoStoreManagmentDALLibrary.dll
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.pdb
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\ref\VideoStoreManagmentDALLibrary.dll

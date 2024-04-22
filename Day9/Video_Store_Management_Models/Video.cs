@@ -10,3 +10,4 @@
         public decimal RentalPrice { get; set; }
     }
 }
+

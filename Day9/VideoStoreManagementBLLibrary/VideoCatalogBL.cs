@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using Video_Store_Management_Models;
-using VideoStoreManagmentDALLibrary; 
+using VideoStoreManagmentDALLibrary;
+
 namespace VideoStoreManagementBLLibrary
 {
     public class VideoCatalogBL : IVideoCatalogService
@@ -12,6 +13,29 @@ namespace VideoStoreManagementBLLibrary
         public VideoCatalogBL(VideoRepository videoRepository)
         {
             _videoRepository = videoRepository;
+        }
+
+        public bool RentVideoToCustomer(int videoId, int customerId)
+        {
+            try
+            {
+                var video = _videoRepository.Get(videoId);
+                if (video != null && video.IsAvailable)
+                {
+                    video.IsAvailable = false; 
+                    _videoRepository.Update(video); 
+                    return true; 
+                }
+                else
+                {
+                    return false; 
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred while renting the video: {ex.Message}");
+                return false; 
+            }
         }
 
         public Video AddVideo(Video video)
@@ -44,7 +68,6 @@ namespace VideoStoreManagementBLLibrary
         {
             try
             {
-                
                 return _videoRepository.GetAvailableVideos();
             }
             catch (Exception ex)
@@ -71,7 +94,6 @@ namespace VideoStoreManagementBLLibrary
         {
             try
             {
-                // Assuming there's a method in the repository to get videos by genre
                 return _videoRepository.GetVideosByGenre(genre);
             }
             catch (Exception ex)

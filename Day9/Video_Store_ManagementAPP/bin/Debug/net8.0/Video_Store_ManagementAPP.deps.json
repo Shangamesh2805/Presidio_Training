@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Video_Store_ManagementAPP/1.0.0": {
+        "dependencies": {
+          "VideoStoreManagementBLLibrary": "1.0.0",
+          "Video_Store_ManagementModels": "1.0.0"
+        },
+        "runtime": {
+          "Video_Store_ManagementAPP.dll": {}
+        }
+      },
+      "VideoStoreManagementBLLibrary/1.0.0": {
+        "dependencies": {
+          "VideoStoreManagmentDALLibrary": "1.0.0",
+          "Video_Store_ManagementModels": "1.0.0"
+        },
+        "runtime": {
+          "VideoStoreManagementBLLibrary.dll": {}
+        }
+      },
+      "VideoStoreManagmentDALLibrary/1.0.0": {
+        "dependencies": {
+          "Video_Store_ManagementModels": "1.0.0"
+        },
+        "runtime": {
+          "VideoStoreManagmentDALLibrary.dll": {}
+        }
+      },
+      "Video_Store_ManagementModels/1.0.0": {
+        "runtime": {
+          "Video_Store_ManagementModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video_Store_ManagementAPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VideoStoreManagementBLLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VideoStoreManagmentDALLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Video_Store_ManagementModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
