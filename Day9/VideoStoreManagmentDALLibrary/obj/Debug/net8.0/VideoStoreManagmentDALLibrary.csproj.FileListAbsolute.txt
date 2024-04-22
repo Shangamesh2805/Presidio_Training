@@ -1,0 +1,5 @@
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.AssemblyInfo.cs
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\obj\Debug\net8.0\VideoStoreManagmentDALLibrary.sourcelink.json

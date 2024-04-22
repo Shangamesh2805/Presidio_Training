@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VideoStoreManagmentDALLibrary
-build_property.ProjectDir = C:\Users\VC\Downloads\Daily_progress\Video_Store_Management\Video_Store_ManagementAPPSOlution\VideoStoreManagmentDALLibrary\
+build_property.ProjectDir = C:\Users\VC\Desktop\Task1\Day9\VideoStoreManagmentDALLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

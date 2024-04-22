@@ -1,0 +1,5 @@
+C:\Users\VC\Desktop\Task1\Day9\Video_Store_ManagementAPP\obj\Debug\net8.0\Video_Store_ManagementAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Task1\Day9\Video_Store_ManagementAPP\obj\Debug\net8.0\Video_Store_ManagementAPP.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Task1\Day9\Video_Store_ManagementAPP\obj\Debug\net8.0\Video_Store_ManagementAPP.AssemblyInfo.cs
+C:\Users\VC\Desktop\Task1\Day9\Video_Store_ManagementAPP\obj\Debug\net8.0\Video_Store_ManagementAPP.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Task1\Day9\Video_Store_ManagementAPP\obj\Debug\net8.0\Video_Store_ManagementAPP.sourcelink.json

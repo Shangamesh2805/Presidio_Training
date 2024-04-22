@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj": {}
+    "C:\\Users\\VC\\Desktop\\Task1\\Day9\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj": {
+    "C:\\Users\\VC\\Desktop\\Task1\\Day9\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj",
         "projectName": "VideoStoreManagmentDALLibrary",
-        "projectPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj",
+        "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\VideoStoreManagmentDALLibrary\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\VideoStoreManagmentDALLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj": {
-                "projectPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj"
+              "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj": {
+                "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj": {
+    "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj",
         "projectName": "Video_Store_ManagementModels",
-        "projectPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj",
+        "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Video_Store_Management\\Video_Store_ManagementAPPSOlution\\Video_Store_Management_Models\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,35 +14,96 @@ namespace VideoStoreManagmentDALLibrary
 
         public Video Add(Video video)
         {
-            if (_videos.ContainsValue(video))
+            try
             {
+                if (_videos.ContainsValue(video))
+                {
+                    throw new InvalidOperationException("Video already exists in the repository.");
+                }
+
+                video.Id = GenerateId();
+                _videos.Add(video.Id, video);
+                return video;
+            }
+            catch (Exception ex)
+            {
+                
+                Console.WriteLine($"An error occurred while adding the video: {ex.Message}");
                 return null;
             }
-            video.Id = GenerateId();
-            _videos.Add(video.Id, video);
-            return video;
         }
 
         public Video Delete(int key)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (_videos.ContainsKey(key))
+                {
+                    var video = _videos[key];
+                    _videos.Remove(key);
+                    return video;
+                }
+                else
+                {
+                    throw new KeyNotFoundException($"Video with ID {key} does not found in the repository.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred while deleting the video: {ex.Message}");
+                return null;
+            }
         }
+    
 
         public Video Get(int key)
         {
-            throw new NotImplementedException();
+           
+            try
+            {
+                if (_videos.ContainsKey(key))
+                {
+                    return _videos[key];
+                }
+                else
+                {
+                    throw new KeyNotFoundException($"Video with ID {key} does not exist in the repository.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred while retrieving the video: {ex.Message}");
+                return null;
+            }
         }
+    
 
         public List<Video> GetAll()
         {
-            throw new NotImplementedException();
+            return _videos.Values.ToList();
         }
 
-        public Video Update(Video item)
+        public Video Update(Video video)
         {
-            throw new NotImplementedException();
+            try
+            {
+                if (_videos.ContainsKey(video.Id))
+                {
+                    _videos[video.Id] = video;
+                    return video;
+                }
+                else
+                {
+                    throw new KeyNotFoundException($"Video with ID {video.Id} does not exist in the repository.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred while updating the video: {ex.Message}");
+                return null;
+            }
         }
-
+    
         private int GenerateId()
         {
             if (_videos.Count == 0)
