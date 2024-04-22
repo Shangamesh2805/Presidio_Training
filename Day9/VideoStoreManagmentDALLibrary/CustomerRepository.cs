@@ -5,7 +5,7 @@ using Video_Store_Management_Models;
 
 namespace VideoStoreManagmentDALLibrary
 {
-    internal class CustomerRepository
+    public class CustomerRepository
     {
         private readonly List<Customer> _customers;
 

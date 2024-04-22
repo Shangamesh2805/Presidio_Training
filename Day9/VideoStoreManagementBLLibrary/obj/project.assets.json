@@ -41,8 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "VideoStoreManagmentDALLibrary >= 1.0.0",
-      "Video_Store_ManagementModels >= 1.0.0"
+      "VideoStoreManagmentDALLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -79,9 +78,6 @@
           "projectReferences": {
             "C:\\Users\\VC\\Desktop\\Task1\\Day9\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj": {
               "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\VideoStoreManagmentDALLibrary\\VideoStoreManagmentDALLibrary.csproj"
-            },
-            "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj": {
-              "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day9\\Video_Store_Management_Models\\Video_Store_ManagementModels.csproj"
             }
           }
         }

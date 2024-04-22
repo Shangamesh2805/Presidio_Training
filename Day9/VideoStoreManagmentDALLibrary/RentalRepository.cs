@@ -87,6 +87,16 @@ namespace VideoStoreManagmentDALLibrary
             return _rentals.Values.ToList();
         }
 
+        public List<Rental> GetRentalsByCustomer(int customerId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Rental> GetRentalsByVideo(int videoId)
+        {
+            throw new NotImplementedException();
+        }
+
         public Rental Update(Rental rental)
         {
             try

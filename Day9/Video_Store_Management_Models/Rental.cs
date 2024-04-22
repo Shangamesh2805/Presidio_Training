@@ -8,6 +8,12 @@ namespace Video_Store_Management_Models
 {
     public class Rental
     {
+        public Rental(int customerId, int videoId)
+        {
+            CustomerId = customerId;
+            VideoId = videoId;
+        }
+
         public int Id { get; set; }
         public int CustomerId { get; set; }
         public int VideoId { get; set; }

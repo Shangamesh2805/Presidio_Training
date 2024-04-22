@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\VideoStoreManagmentDALLibrary\VideoStoreManagmentDALLibrary.csproj" />
-    <ProjectReference Include="..\Video_Store_Management_Models\Video_Store_ManagementModels.csproj" />
   </ItemGroup>
 
 </Project>

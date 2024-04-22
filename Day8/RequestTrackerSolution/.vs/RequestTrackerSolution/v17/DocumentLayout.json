@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{315EF7F9-9B99-421C-8CCA-30ECA1C4ACA1}|RequestTrackerApp\\RequestTrackerApp.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{315EF7F9-9B99-421C-8CCA-30ECA1C4ACA1}|RequestTrackerApp\\RequestTrackerApp.csproj|solutionrelative:requesttrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerbllibrary\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerdallibrary\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerbllibrary\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerbllibrary\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerbllibrary\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerbllibrary\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerbllibrary\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerbllibrary\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerbllibrary\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\departmentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerbllibrary\\duplicatedepartmentnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{315EF7F9-9B99-421C-8CCA-30ECA1C4ACA1}|RequestTrackerApp\\RequestTrackerApp.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315EF7F9-9B99-421C-8CCA-30ECA1C4ACA1}|RequestTrackerApp\\RequestTrackerApp.csproj|solutionrelative:requesttrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerdallibrary\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerbllibrary\\duplicatedepartmentnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5503D6F-0766-4820-B11E-AF5A81F9A6FC}|RequestTrackerBLLibrary\\RequestTrackerBLLibrary.csproj|solutionrelative:requesttrackerbllibrary\\duplicatedepartmentnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackerdallibrary\\requesttrackerdallibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackerdallibrary\\requesttrackerdallibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5B088C4D-2EF2-441B-8996-7DAF6FB4CE42}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\requesttrackerdallibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C92893-08F4-404F-BA23-EAEF8D19DFAC}|RequestTrackerModel\\RequestTrackerModel.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackermodel\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C92893-08F4-404F-BA23-EAEF8D19DFAC}|RequestTrackerModel\\RequestTrackerModel.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackermodel\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C92893-08F4-404F-BA23-EAEF8D19DFAC}|RequestTrackerModel\\RequestTrackerModel.csproj|solutionrelative:requesttrackermodel\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C92893-08F4-404F-BA23-EAEF8D19DFAC}|RequestTrackerModel\\RequestTrackerModel.csproj|c:\\users\\vc\\desktop\\apps\\presidio_assignments\\day8\\requesttrackersolution\\requesttrackermodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C92893-08F4-404F-BA23-EAEF8D19DFAC}|RequestTrackerModel\\RequestTrackerModel.csproj|c:\\users\\vc\\desktop\\task1\\day8\\requesttrackersolution\\requesttrackermodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C92893-08F4-404F-BA23-EAEF8D19DFAC}|RequestTrackerModel\\RequestTrackerModel.csproj|solutionrelative:requesttrackermodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -63,12 +63,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\EmployeeBL.cs",
+              "RelativeToolTip": "RequestTrackerBLLibrary\\EmployeeBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:15:10.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IEmployeeService.cs",
+              "RelativeToolTip": "RequestTrackerBLLibrary\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:47:53.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerApp\\Program.cs",
               "RelativeDocumentMoniker": "RequestTrackerApp\\Program.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerApp\\Program.cs",
               "RelativeToolTip": "RequestTrackerApp\\Program.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAswEMAAAABAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T15:08:48.351Z",
               "EditorCaption": ""
@@ -76,22 +102,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\IRepository.cs",
-              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\IRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\IRepository.cs",
-              "RelativeToolTip": "RequestTrackerDALLibrary\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Title": "DepartmentBL.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\DepartmentBL.cs",
+              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\DepartmentBL.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\DepartmentBL.cs",
+              "RelativeToolTip": "RequestTrackerBLLibrary\\DepartmentBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T15:06:17.893Z"
+              "WhenOpened": "2024-04-17T08:29:25.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IDepartmentService.cs",
+              "RelativeToolTip": "RequestTrackerBLLibrary\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:37:25.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\DepartmentRepository.cs",
               "RelativeToolTip": "RequestTrackerDALLibrary\\DepartmentRepository.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAowEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,35 +139,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IEmployeeService.cs",
-              "RelativeToolTip": "RequestTrackerBLLibrary\\IEmployeeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\IRepository.cs",
+              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\IRepository.cs",
+              "RelativeToolTip": "RequestTrackerDALLibrary\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:47:53.92Z"
+              "WhenOpened": "2024-04-19T15:06:17.893Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EmployeeBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\EmployeeBL.cs",
-              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\EmployeeBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\EmployeeBL.cs",
-              "RelativeToolTip": "RequestTrackerBLLibrary\\EmployeeBL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:15:10.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
               "RelativeToolTip": "RequestTrackerDALLibrary\\EmployeeRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,35 +163,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IDepartmentService.cs",
-              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\IDepartmentService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\IDepartmentService.cs",
-              "RelativeToolTip": "RequestTrackerBLLibrary\\IDepartmentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:37:25.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DepartmentBL.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\DepartmentBL.cs",
-              "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\DepartmentBL.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\DepartmentBL.cs",
-              "RelativeToolTip": "RequestTrackerBLLibrary\\DepartmentBL.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T08:29:25.082Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "DuplicateDepartmentNameException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\DuplicateDepartmentNameException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\DuplicateDepartmentNameException.cs",
               "RelativeDocumentMoniker": "RequestTrackerBLLibrary\\DuplicateDepartmentNameException.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\DuplicateDepartmentNameException.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerBLLibrary\\DuplicateDepartmentNameException.cs",
               "RelativeToolTip": "RequestTrackerBLLibrary\\DuplicateDepartmentNameException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,9 +177,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "RequestTrackerDALLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj",
               "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj",
               "RelativeToolTip": "RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -185,9 +189,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Request.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\Request.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\Request.cs",
               "RelativeDocumentMoniker": "RequestTrackerModel\\Request.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\Request.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\Request.cs",
               "RelativeToolTip": "RequestTrackerModel\\Request.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -197,9 +201,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\Employee.cs",
               "RelativeDocumentMoniker": "RequestTrackerModel\\Employee.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\Apps\\Presidio_Assignments\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\Employee.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day8\\RequestTrackerSolution\\RequestTrackerModel\\Employee.cs",
               "RelativeToolTip": "RequestTrackerModel\\Employee.cs",
               "ViewState": "AQIAAEYAAAAAAAAAAAAqwA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

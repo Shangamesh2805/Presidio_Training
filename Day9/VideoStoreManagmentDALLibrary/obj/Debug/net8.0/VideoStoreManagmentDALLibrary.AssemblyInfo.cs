@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoStoreManagmentDALLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a5079e915a3bcb7391451487603cf93a87901c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1edae2ceab200fb6ab63042aad552e845ddab90d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoStoreManagmentDALLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoStoreManagmentDALLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

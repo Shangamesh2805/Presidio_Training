@@ -83,6 +83,16 @@ namespace VideoStoreManagmentDALLibrary
             return _videos.Values.ToList();
         }
 
+        public List<Video> GetAvailableVideos()
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Video> GetVideosByGenre(string genre)
+        {
+            throw new NotImplementedException();
+        }
+
         public Video Update(Video video)
         {
             try
