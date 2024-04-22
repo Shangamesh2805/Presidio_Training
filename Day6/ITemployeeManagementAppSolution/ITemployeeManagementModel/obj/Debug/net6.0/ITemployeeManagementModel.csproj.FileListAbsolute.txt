@@ -1,0 +1,12 @@
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\obj\Debug\net6.0\ITemployeeManagementModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\obj\Debug\net6.0\ITemployeeManagementModel.AssemblyInfoInputs.cache
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\obj\Debug\net6.0\ITemployeeManagementModel.AssemblyInfo.cs
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\obj\Debug\net6.0\ITemployeeManagementModel.csproj.CoreCompileInputs.cache
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\obj\Debug\net6.0\ITemployeeManagementModel.sourcelink.json
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\bin\Debug\net6.0\ITemployeeManagementModel.deps.json
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\bin\Debug\net6.0\ITemployeeManagementModel.dll
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\bin\Debug\net6.0\ITemployeeManagementModel.pdb
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\obj\Debug\net6.0\ITemployeeManagementModel.dll
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\obj\Debug\net6.0\refint\ITemployeeManagementModel.dll
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\obj\Debug\net6.0\ITemployeeManagementModel.pdb
+C:\Users\VC\Desktop\Apps\Presidio_Assignments\Day6\ITemployeeManagementAppSolution\ITemployeeManagementModel\obj\Debug\net6.0\ref\ITemployeeManagementModel.dll

@@ -1,0 +1,11 @@
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\obj\Debug\net6.0\RequestTrackerModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\obj\Debug\net6.0\RequestTrackerModel.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\obj\Debug\net6.0\RequestTrackerModel.AssemblyInfo.cs
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\obj\Debug\net6.0\RequestTrackerModel.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\bin\Debug\net6.0\RequestTrackerModel.deps.json
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\bin\Debug\net6.0\RequestTrackerModel.dll
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\bin\Debug\net6.0\RequestTrackerModel.pdb
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\obj\Debug\net6.0\RequestTrackerModel.dll
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\obj\Debug\net6.0\refint\RequestTrackerModel.dll
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\obj\Debug\net6.0\RequestTrackerModel.pdb
+C:\Users\VC\Documents\Daily_progress\Day7\RequestTrackerSolution\RequestTrackerModel\obj\Debug\net6.0\ref\RequestTrackerModel.dll

@@ -1,0 +1,14 @@
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\bin\Debug\net6.0\Bulls_Cows_game.exe
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\bin\Debug\net6.0\Bulls_Cows_game.deps.json
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\bin\Debug\net6.0\Bulls_Cows_game.runtimeconfig.json
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\bin\Debug\net6.0\Bulls_Cows_game.dll
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\bin\Debug\net6.0\Bulls_Cows_game.pdb
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\obj\Debug\net6.0\Bulls_Cows_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\obj\Debug\net6.0\Bulls_Cows_game.AssemblyInfoInputs.cache
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\obj\Debug\net6.0\Bulls_Cows_game.AssemblyInfo.cs
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\obj\Debug\net6.0\Bulls_Cows_game.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\obj\Debug\net6.0\Bulls_Cows_game.dll
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\obj\Debug\net6.0\refint\Bulls_Cows_game.dll
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\obj\Debug\net6.0\Bulls_Cows_game.pdb
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\obj\Debug\net6.0\Bulls_Cows_game.genruntimeconfig.cache
+C:\Users\VC\Documents\try1\Day5\Bulls_game_soln\Bulls_Cows_game\obj\Debug\net6.0\ref\Bulls_Cows_game.dll

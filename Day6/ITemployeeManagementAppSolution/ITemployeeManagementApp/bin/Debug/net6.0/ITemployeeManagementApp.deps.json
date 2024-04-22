@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ITemployeeManagementApp/1.0.0": {
+        "dependencies": {
+          "ITemployeeManagementModel": "1.0.0"
+        },
+        "runtime": {
+          "ITemployeeManagementApp.dll": {}
+        }
+      },
+      "ITemployeeManagementModel/1.0.0": {
+        "runtime": {
+          "ITemployeeManagementModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITemployeeManagementApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ITemployeeManagementModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
