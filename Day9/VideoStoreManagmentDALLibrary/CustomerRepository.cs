@@ -21,8 +21,17 @@ namespace VideoStoreManagmentDALLibrary
             return CustomerId++;
         }
 
-        public Customer AddCustomer(Customer customer)
+    public int  GenerateCustomerId()
+    {
+    
+        return CustomerId++;
+    }
+    
+    public Customer AddCustomer(Customer customer)
+    {
+        try
         {
+
             try
             {
                 customer.Id = GenerateCustomerId();
@@ -31,6 +40,13 @@ namespace VideoStoreManagmentDALLibrary
                 {
                     throw new InvalidOperationException("Customer with the same ID already exists.");
                 }
+            customer.Id = GenerateCustomerId();
+
+        if (_customers.Any(customerItem => customerItem.Id == customer.Id))
+        {
+            throw new InvalidOperationException("Customer with the same ID already exists.");
+        }
+
 
                 _customers.Add(customer);
                 return customer;
