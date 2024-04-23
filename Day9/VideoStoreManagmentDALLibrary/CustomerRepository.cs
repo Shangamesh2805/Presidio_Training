@@ -8,21 +8,29 @@ namespace VideoStoreManagmentDALLibrary
     public class CustomerRepository
     {
         private readonly List<Customer> _customers;
+        private int CustomerId = 1;
 
         public CustomerRepository()
         {
             _customers = new List<Customer>();
         }
 
-        public Customer AddCustomer(Customer customer)
+    public int  GenerateCustomerId()
+    {
+    
+        return CustomerId++;
+    }
+    
+    public Customer AddCustomer(Customer customer)
+    {
+        try
         {
-            try
-            {
-                // Check if the customer already exists
-                if (_customers.Any(customerItem => customerItem.Id == customer.Id))
-                {
-                    throw new InvalidOperationException("Customer with the same ID already exists.");
-                }
+            customer.Id = GenerateCustomerId();
+
+        if (_customers.Any(customerItem => customerItem.Id == customer.Id))
+        {
+            throw new InvalidOperationException("Customer with the same ID already exists.");
+        }
 
                 _customers.Add(customer);
                 return customer;
@@ -70,7 +78,7 @@ namespace VideoStoreManagmentDALLibrary
                     existingCustomer.Name = customer.Name;
                     existingCustomer.Address = customer.Address;
                     existingCustomer.Gender = customer.Gender;
-                    // Update other properties as needed
+                    
                     return existingCustomer;
                 }
                 else
