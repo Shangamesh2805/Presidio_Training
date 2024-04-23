@@ -3,6 +3,7 @@ using Video_Store_Management_Models;
 using VideoStoreManagementBLLibrary;
 using VideoStoreManagmentDALLibrary;
 
+
 namespace VideoStoreManagement
 {
     public class Program
@@ -13,12 +14,13 @@ namespace VideoStoreManagement
             Console.WriteLine("2. Add Customer");
             Console.WriteLine("3. Show All Videos");
             Console.WriteLine("4. Rent Video (Customer)");
-            Console.WriteLine("5. Exit");
+            Console.WriteLine("5. Return Video (Customer)");
+            Console.WriteLine("6. Exit");
         }
 
         static string GetMenuChoice()
         {
-            Console.Write("\nEnter your choice (or 'exit' to quit): ");
+            Console.Write("\nEnter your choice : ");
             return Console.ReadLine().ToLower();
         }
 
@@ -36,8 +38,8 @@ namespace VideoStoreManagement
             int rentalPrice = int.Parse(Console.ReadLine());
 
             var video = new Video { Title = title, Genre = genre, IsAvailable = availabilityStatus, RentalPrice = rentalPrice };
-            videoService.AddVideo(video);
-            Console.WriteLine("Video added successfully.");
+            var addedVideo = videoService.AddVideo(video);
+            Console.WriteLine($"Video added successfully. Video ID: {addedVideo.Id}");
         }
 
         static void AddCustomer(ICustomerService customerService)
@@ -51,8 +53,8 @@ namespace VideoStoreManagement
             string gender = Console.ReadLine();
 
             var customer = new Customer { Name = name, Address = address, Gender = gender };
-            customerService.AddCustomer(customer);
-            Console.WriteLine("Customer added successfully.");
+            var addedCustomer = customerService.AddCustomer(customer);
+            Console.WriteLine($"Customer added successfully. Customer ID: {addedCustomer.Id}");
         }
 
         static void ShowAllVideos(IVideoCatalogService videoService)
@@ -61,20 +63,19 @@ namespace VideoStoreManagement
             Console.WriteLine("\nAll Videos:");
             foreach (var v in allVideos)
             {
-                Console.WriteLine($"Title: {v.Title}, Genre: {v.Genre}, Availability: {(v.IsAvailable ? "Available" : "Not Available")}, Rental Price: {v.RentalPrice}");
+                Console.WriteLine($"Video ID: {v.Id}, Title: {v.Title}, Genre: {v.Genre}, Availability: {(v.IsAvailable ? "Available" : "Not Available")}, Rental Price: {v.RentalPrice}");
             }
         }
 
-        static void RentVideo(IVideoCatalogService videoService, ICustomerService customerService)
+        static void RentVideo(IRentalService rentalService, IVideoCatalogService videoService, ICustomerService customerService)
         {
             Console.WriteLine("Enter Customer ID: ");
             int customerId = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter Video ID: ");
             int videoId = int.Parse(Console.ReadLine());
 
-            bool rentalSuccess = videoService.RentVideoToCustomer(videoId,
-                                                                  customerId);
-            if (rentalSuccess)
+            var rental = rentalService.RentVideo(customerId, videoId);
+            if (rental != null) 
             {
                 Console.WriteLine("Video rented successfully.");
             }
@@ -84,13 +85,31 @@ namespace VideoStoreManagement
             }
         }
 
+        static void ReturnVideo(IRentalService rentalService)
+        {
+            Console.WriteLine("Enter Rental ID: ");
+            int rentalId = int.Parse(Console.ReadLine());
+
+            bool returnSuccess = rentalService.ReturnVideo(rentalId);
+            if (returnSuccess)
+            {
+                Console.WriteLine("Video returned successfully.");
+            }
+            else
+            {
+                Console.WriteLine("Failed to return the video. Please check the rental ID.");
+            }
+        }
+
         public static void Main(string[] args)
         {
             var videoRepo = new VideoRepository();
             var customerRepo = new CustomerRepository();
+            var rentalRepo = new RentalRepository();
 
             var videoService = new VideoCatalogBL(videoRepo);
             var customerService = new CustomerBL(customerRepo);
+            var rentalService = new RentalBL(rentalRepo, videoRepo);
 
             bool exit = false;
             while (!exit)
@@ -110,9 +129,12 @@ namespace VideoStoreManagement
                         ShowAllVideos(videoService);
                         break;
                     case "4":
-                        RentVideo(videoService, customerService);
+                        RentVideo(rentalService, videoService, customerService); 
                         break;
                     case "5":
+                        ReturnVideo(rentalService);
+                        break;
+                    case "6":
                     case "exit":
                         exit = true;
                         break;

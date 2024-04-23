@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace VideoStoreManagmentDALLibrary
 {
-    internal interface IRepository<K,T> where T: class
+    public interface IRepository<K,T> where T: class
     {
         List<T> GetAll();
         T Get(K key);

@@ -8,10 +8,12 @@ namespace VideoStoreManagementBLLibrary
     public class RentalBL : IRentalService
     {
         private readonly RentalRepository _rentalRepository;
+        private readonly VideoRepository _videoRepository;
 
-        public RentalBL()
+        public RentalBL(RentalRepository rentalRepository, VideoRepository videoRepository)
         {
-            _rentalRepository = new RentalRepository();
+            _rentalRepository = rentalRepository;
+            _videoRepository = videoRepository;
         }
 
         public List<Rental> GetAllRentals()
@@ -31,9 +33,7 @@ namespace VideoStoreManagementBLLibrary
         {
             try
             {
-                
                 return _rentalRepository.GetRentalsByCustomer(customerId);
-                throw new NotImplementedException();
             }
             catch (Exception ex)
             {
@@ -46,9 +46,7 @@ namespace VideoStoreManagementBLLibrary
         {
             try
             {
-                
                 return _rentalRepository.GetRentalsByVideo(videoId);
-                throw new NotImplementedException();
             }
             catch (Exception ex)
             {
@@ -61,10 +59,22 @@ namespace VideoStoreManagementBLLibrary
         {
             try
             {
-                Rental rental = new(customerId, videoId);
+                Rental rental = new Rental(customerId, videoId);
+                _rentalRepository.Add(rental);
 
-                return _rentalRepository.Add(rental);
-                throw new NotImplementedException();
+                var video = _videoRepository.Get(videoId);
+                if (video != null)
+                {
+                    video.IsAvailable = false;
+                    _videoRepository.Update(video);
+                }
+                else
+                {
+                    throw new KeyNotFoundException($"Video with ID {videoId} does not exist.");
+                }
+
+                Console.WriteLine("Video rented successfully.");
+                return rental; 
             }
             catch (Exception ex)
             {
@@ -77,9 +87,27 @@ namespace VideoStoreManagementBLLibrary
         {
             try
             {
-                
-                return _rentalRepository.Delete(rentalId) != null;
-                throw new NotImplementedException();
+                var rental = _rentalRepository.Get(rentalId);
+                if (rental != null)
+                {
+                    var videoId = rental.VideoId;
+                    _rentalRepository.Delete(rentalId); 
+                    var video = _videoRepository.Get(videoId);
+                    if (video != null)
+                    {
+                        video.IsAvailable = true; 
+                        _videoRepository.Update(video); 
+                        return true;
+                    }
+                    else
+                    {
+                        throw new KeyNotFoundException($"Video with ID {videoId} does not exist.");
+                    }
+                }
+                else
+                {
+                    throw new KeyNotFoundException($"Rental with ID {rentalId} does not exist.");
+                }
             }
             catch (Exception ex)
             {

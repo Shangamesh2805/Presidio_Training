@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VC\\Documents\\Daily_progress\\Day7\\DoctorClinicSolution\\DoctorClinicApp\\DoctorClinicApp.csproj",
+      "projectUniqueName": "C:\\Users\\VC\\Desktop\\Task1\\Day10\\DoctorClinicSolution\\DoctorClinicApp\\DoctorClinicApp.csproj",
       "projectName": "DoctorClinicApp",
-      "projectPath": "C:\\Users\\VC\\Documents\\Daily_progress\\Day7\\DoctorClinicSolution\\DoctorClinicApp\\DoctorClinicApp.csproj",
+      "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day10\\DoctorClinicSolution\\DoctorClinicApp\\DoctorClinicApp.csproj",
       "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VC\\Documents\\Daily_progress\\Day7\\DoctorClinicSolution\\DoctorClinicApp\\obj\\",
+      "outputPath": "C:\\Users\\VC\\Desktop\\Task1\\Day10\\DoctorClinicSolution\\DoctorClinicApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

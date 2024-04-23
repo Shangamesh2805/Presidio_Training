@@ -18,13 +18,13 @@ namespace VideoStoreManagmentDALLibrary
         {
             try
             {
-                // Check if the rental already exists
+               
                 if (_rentals.ContainsValue(rental))
                 {
                     throw new InvalidOperationException("Rental already exists in the repository.");
                 }
 
-                // Check if the rental already has an ID
+                
                 if (rental.Id == 0)
                 {
                     rental.Id = GenerateId();
