@@ -1,0 +1,11 @@
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\bin\Debug\net8.0\ShoppingModelLibrary.deps.json
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\bin\Debug\net8.0\ShoppingModelLibrary.dll
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\bin\Debug\net8.0\ShoppingModelLibrary.pdb
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\obj\Debug\net8.0\ShoppingModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\obj\Debug\net8.0\ShoppingModelLibrary.AssemblyInfoInputs.cache
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\obj\Debug\net8.0\ShoppingModelLibrary.AssemblyInfo.cs
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\obj\Debug\net8.0\ShoppingModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\obj\Debug\net8.0\ShoppingModelLibrary.dll
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\obj\Debug\net8.0\refint\ShoppingModelLibrary.dll
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\obj\Debug\net8.0\ShoppingModelLibrary.pdb
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingModelLibrary\obj\Debug\net8.0\ref\ShoppingModelLibrary.dll
