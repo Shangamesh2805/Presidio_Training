@@ -1,0 +1,6 @@
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingBLLibraryTest\bin\Debug\net8.0\CoverletSourceRootsMapping_ShoppingBLLibraryTest
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingBLLibraryTest\obj\Debug\net8.0\ShoppingBLLibraryTest.csproj.AssemblyReference.cache
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingBLLibraryTest\obj\Debug\net8.0\ShoppingBLLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingBLLibraryTest\obj\Debug\net8.0\ShoppingBLLibraryTest.AssemblyInfoInputs.cache
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingBLLibraryTest\obj\Debug\net8.0\ShoppingBLLibraryTest.AssemblyInfo.cs
+C:\Users\VC\Downloads\Daily_progress\Day11\ShoppingFESoln\ShoppingBLLibraryTest\obj\Debug\net8.0\ShoppingBLLibraryTest.csproj.CoreCompileInputs.cache

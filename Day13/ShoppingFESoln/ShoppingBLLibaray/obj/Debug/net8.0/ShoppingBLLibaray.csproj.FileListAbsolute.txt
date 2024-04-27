@@ -1,0 +1,17 @@
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\bin\Debug\net8.0\ShoppingBLLibaray.deps.json
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\bin\Debug\net8.0\ShoppingBLLibaray.dll
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\bin\Debug\net8.0\ShoppingBLLibaray.pdb
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\bin\Debug\net8.0\ShoppingDALLibrary.dll
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\bin\Debug\net8.0\ShoppingModelLibrary.dll
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\bin\Debug\net8.0\ShoppingDALLibrary.pdb
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\bin\Debug\net8.0\ShoppingModelLibrary.pdb
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\ShoppingBLLibaray.csproj.AssemblyReference.cache
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\ShoppingBLLibaray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\ShoppingBLLibaray.AssemblyInfoInputs.cache
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\ShoppingBLLibaray.AssemblyInfo.cs
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\ShoppingBLLibaray.csproj.CoreCompileInputs.cache
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\Shopping.E7E362EF.Up2Date
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\ShoppingBLLibaray.dll
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\refint\ShoppingBLLibaray.dll
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\ShoppingBLLibaray.pdb
+C:\Users\VC\Downloads\Daily_progress\Day13\ShoppingFESoln\ShoppingBLLibaray\obj\Debug\net8.0\ref\ShoppingBLLibaray.dll
