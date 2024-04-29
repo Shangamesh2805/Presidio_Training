@@ -24,10 +24,13 @@ namespace ShoppingBLLibrary.Tests
 
             // Act
             object value = await Assert.DoesNotThrowAsync(() => _cartBL.AddProductToCartAsync(cartItem));
-
-            // Assert
-            // Add your assertions here (e.g., verify mock repository was called with expected data)
+                        var productsInCart = await _cartBL.GetAllProductsInCartAsync();
+            Assert.That(productsInCart.Count, Is.EqualTo(1)); // Assert one item added to cart
+            Assert.That(productsInCart.First().Quantity, Is.EqualTo(cartItem.Quantity)); // Assert quantity matches
         }
+
+            
+        
 
         [Test]
         public async Task AddProductToCart_CartLimitExceededAsync()
@@ -49,7 +52,10 @@ namespace ShoppingBLLibrary.Tests
             await Assert.DoesNotThrowAsync(() => _cartBL.DeleteProductFromCartAsync(productId));
 
             // Assert
-            // Add your assertions here (e.g., verify mock repository was called with expected ID)
+            var productsInCart = await _cartBL.GetAllProductsInCartAsync();
+            Assert.That(productsInCart.Any(p => p.ProductId == productId), Is.False); // Assert product is removed
+        
+            
         }
 
         [Test]
@@ -75,8 +81,10 @@ namespace ShoppingBLLibrary.Tests
             // Act
             var totalAmount = await _cartBL.CalculateTotalAmountAsync(cartItems);
 
-            // Assert
-            // Add your assertions here (e.g., verify total amount is calculated correctly)
+             // Assert
+            var expectedTotal = cartItems.Sum(item => item.Product.Price * item.Quantity);
+            Assert.That(totalAmount, Is.EqualTo(expectedTotal)); // Assert total matches calculation
+        
         }
 
         [Test]
@@ -95,8 +103,8 @@ namespace ShoppingBLLibrary.Tests
             // Act
             var products = await _cartBL.GetAllProductsInCartAsync();
 
-            // Assert
-            // Add your assertions here (e.g., verify returned products are as expected)
+           // Assert
+            await Assert.That(products, Is.Not.Null);
         }
 
         [Test]
@@ -107,9 +115,16 @@ namespace ShoppingBLLibrary.Tests
 
             // Act
             var shippingCharge = await _cartBL.CalculateShippingChargeAsync(totalAmount);
-
-            // Assert
-            // Add your assertions here (e.g., verify shipping charge is calculated correctly)
+            //Assert
+            if (totalAmount >= 100)
+            {
+                Assert.That(shippingCharge, Is.EqualTo(0)); // Assert free shipping for amount above threshold
+            }
+            else
+            {
+                Assert.That(shippingCharge, Is.GreaterThan(0)); // Assert some shipping charge for amount below threshold
+            }
+            
         }
 
         [Test]
@@ -136,8 +151,10 @@ namespace ShoppingBLLibrary.Tests
             // Act
             var discount = await _cartBL.ApplyDiscountAsync(products);
 
-            // Assert
-            // Add your assertions here (e.g., verify discount is calculated correctly)
+            var expectedDiscountAmount = 10; // Replace with your expected discount value
+            Assert.That(discount, Is.GreaterThan(0)); // Assert some discount is applied
+            Assert.That(discount, Is.LessThan(products.Sum(p => p.Price))); // Assert discount is less than total price
+}
         }
 
         [Test]
