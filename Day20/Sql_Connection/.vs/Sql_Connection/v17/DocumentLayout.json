@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day20\\Sql_Connection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C1A363-2444-4F42-8C16-9C4473CCA761}|Sql_Connection\\Sql_Connection.csproj|c:\\users\\vc\\downloads\\daily_progress\\day20\\sql_connection\\sql_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C1A363-2444-4F42-8C16-9C4473CCA761}|Sql_Connection\\Sql_Connection.csproj|solutionrelative:sql_connection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 376,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day20\\Sql_Connection\\Sql_Connection\\Program.cs",
+              "RelativeDocumentMoniker": "Sql_Connection\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day20\\Sql_Connection\\Sql_Connection\\Program.cs",
+              "RelativeToolTip": "Sql_Connection\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAewCEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:01:18.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 23,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

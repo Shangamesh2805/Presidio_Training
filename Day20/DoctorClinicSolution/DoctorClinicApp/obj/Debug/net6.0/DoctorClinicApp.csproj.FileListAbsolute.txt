@@ -1,0 +1,14 @@
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.exe
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.deps.json
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.runtimeconfig.json
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.dll
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\bin\Debug\net6.0\DoctorClinicApp.pdb
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.AssemblyInfoInputs.cache
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.AssemblyInfo.cs
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.csproj.CoreCompileInputs.cache
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.dll
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\obj\Debug\net6.0\refint\DoctorClinicApp.dll
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.pdb
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\obj\Debug\net6.0\DoctorClinicApp.genruntimeconfig.cache
+C:\Users\VC\Downloads\Daily_progress\Day20\DoctorClinicSolution\DoctorClinicApp\obj\Debug\net6.0\ref\DoctorClinicApp.dll
