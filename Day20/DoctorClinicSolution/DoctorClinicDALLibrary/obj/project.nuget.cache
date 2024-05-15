@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7X0PkmPeq4C9q3uOA0k3bEdvddY1vlUZ04sdH2IcCrabR8QgCJfOguZbK//MaOi+dq1nbPWihYVroVCp64kVQ==",
+  "dgSpecHash": "gZrB+lRIXoebBhrLnyakfqhW0CStuNrVt+1LdtdLGDjdOcCrwlLXnfDkGFXHtz1Rhbqv4+v4dfnc4BlPI1aWlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day20\\DoctorClinicSolution\\DoctorClinicDALLibrary\\DoctorClinicDALLibrary.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Desktop\\Task1\\Day20\\DoctorClinicSolution\\DoctorClinicDALLibrary\\DoctorClinicDALLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\VC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

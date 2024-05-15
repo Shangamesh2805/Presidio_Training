@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wZYLD831ZcBCpwo8J+eYMYEKyK6INuOmVnsfIyIOALcUnf72HbR7pA2A2ea5tw4Fps3N/GQs1NEmrmQ59AK0ow==",
+  "dgSpecHash": "1coIlEjg3Uum4r/lAXp9iWske7F1ZwRXp6IrmSRDK+SjiZ4ReuxZQof4xUp0MIQbRUIKZ5nIgflZ+m9VzvN/6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day20\\DoctorClinicSolution\\DoctorClinicBLLibrary\\DoctorClinicBLLibrary.csproj",
+  "projectFilePath": "C:\\Users\\VC\\Desktop\\Task1\\Day20\\DoctorClinicSolution\\DoctorClinicBLLibrary\\DoctorClinicBLLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\VC\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",
