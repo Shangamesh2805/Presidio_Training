@@ -17,7 +17,9 @@ namespace PizzaStoreManagmentAPI.Controllers
             {
                 _pizzaService = pizzaService;
             }
-            [Route("/GetAvailablePizza")]
+
+
+            [Route("/GetPizzaInStock")]
             [HttpPost]
             [ProducesResponseType(typeof(Pizza), StatusCodes.Status200OK)]
             [ProducesResponseType(typeof(Error), StatusCodes.Status400BadRequest)]
@@ -37,6 +39,7 @@ namespace PizzaStoreManagmentAPI.Controllers
                 }
             }
 
+
             [Route("/GetPizzaByName")]
             [HttpGet]
             [ProducesResponseType(typeof(Pizza), StatusCodes.Status200OK)]
@@ -55,9 +58,8 @@ namespace PizzaStoreManagmentAPI.Controllers
                     return BadRequest(new Error(501, ele.Message));
 
                 }
-
-
             }
+
         }
 
     }
