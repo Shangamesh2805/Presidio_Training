@@ -21,9 +21,9 @@ namespace PizzaStoreManagmentAPI.Context
 
             modelBuilder.Entity<Pizza>().HasData(
 
-                new Pizza() { Id = 201, Name = "Pepperoni Pizza", size = "Large", price = 120, Availability = "In Stock" },
-                new Pizza() { Id = 202, Name = "Veggie Pizza", size = "Medium", price = 80, Availability = "Out of Stock" },
-                new Pizza() { Id = 203, Name = "BBQ Chicken Pizza", size = "Small", price = 90, Availability = "In Stock" }
+                new Pizza() { Id = 101, Name = "Pepperoni Pizza", size = "Large", price = 120, Availability = "In Stock" },
+                new Pizza() { Id = 102, Name = "Veggie Pizza", size = "Medium", price = 80, Availability = "Out of Stock" },
+                new Pizza() { Id = 103, Name = "BBQ Chicken Pizza", size = "Small", price = 90, Availability = "In Stock" }
                 );
 
         }

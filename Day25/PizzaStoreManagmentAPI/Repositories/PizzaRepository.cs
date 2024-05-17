@@ -1,11 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PizzaStoreManagmentAPI.Context;
 using PizzaStoreManagmentAPI.Exceptions;
+using PizzaStoreManagmentAPI.Interfaces;
 using PizzaStoreManagmentAPI.Models;
 
 namespace PizzaStoreManagmentAPI.Repositories
 {
-    public class PizzaRepository
+    public class PizzaRepository : IRepository<int, Pizza>
     {
         private readonly PizzaContext _context;
         public PizzaRepository(PizzaContext context)
