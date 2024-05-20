@@ -1,106 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\migrations\\20240517061803_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\migrations\\20240517061803_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:migrations\\20240517061803_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Migrations\\20240517062301_updates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240517062301_updates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\context\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\context\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:context\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:repositories\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\repositories\\usercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\repositories\\usercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:repositories\\usercredentialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\exceptions\\unauthorizeduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\exceptions\\unauthorizeduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:exceptions\\unauthorizeduserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\exceptions\\unabletoregisterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\exceptions\\unabletoregisterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:exceptions\\unabletoregisterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\exceptions\\nouserfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\exceptions\\nouserfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:exceptions\\nouserfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:interfaces\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\exceptions\\emptylistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\exceptions\\emptylistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:exceptions\\emptylistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\models\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\models\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:models\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\models\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\models\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:models\\dto\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\models\\dto\\pizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\models\\dto\\pizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:models\\dto\\pizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\models\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\models\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:models\\usercredential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\downloads\\daily_progress\\day25\\pizzastoremanagmentapi\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|c:\\users\\vc\\desktop\\task1\\day25\\pizzastoremanagmentapi\\migrations\\20240517062301_updates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53731E18-81D2-4152-9BCA-F1466D193FB7}|PizzaStoreManagmentAPI.csproj|solutionrelative:migrations\\20240517062301_updates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 24,
               "Title": "20240517062301_updates.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Migrations\\20240517062301_updates.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Migrations\\20240517062301_updates.cs",
               "RelativeDocumentMoniker": "Migrations\\20240517062301_updates.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Migrations\\20240517062301_updates.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Migrations\\20240517062301_updates.cs",
               "RelativeToolTip": "Migrations\\20240517062301_updates.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAQwCkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20240517061803_init.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Migrations\\20240517061803_init.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Migrations\\20240517061803_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20240517061803_init.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Migrations\\20240517061803_init.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Migrations\\20240517061803_init.cs",
               "RelativeToolTip": "Migrations\\20240517061803_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,11 +157,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -170,11 +170,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "PizzaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Repositories\\PizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Repositories\\PizzaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\PizzaRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Repositories\\PizzaRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Repositories\\PizzaRepository.cs",
               "RelativeToolTip": "Repositories\\PizzaRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,24 +183,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PizzaContext.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Context\\PizzaContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Context\\PizzaContext.cs",
               "RelativeDocumentMoniker": "Context\\PizzaContext.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Context\\PizzaContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Context\\PizzaContext.cs",
               "RelativeToolTip": "Context\\PizzaContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA7wB0AAAAFAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwB0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T17:43:11.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Pizza.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\Pizza.cs",
               "RelativeDocumentMoniker": "Models\\Pizza.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\Pizza.cs",
               "RelativeToolTip": "Models\\Pizza.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAcwAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,11 +209,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "PizzaService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Services\\PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Services\\PizzaService.cs",
               "RelativeDocumentMoniker": "Services\\PizzaService.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Services\\PizzaService.cs",
               "RelativeToolTip": "Services\\PizzaService.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAuwCwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,11 +222,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "UserCredentialRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Repositories\\UserCredentialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Repositories\\UserCredentialRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UserCredentialRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Repositories\\UserCredentialRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Repositories\\UserCredentialRepository.cs",
               "RelativeToolTip": "Repositories\\UserCredentialRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +235,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "UserServices.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Services\\UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Services\\UserServices.cs",
               "RelativeDocumentMoniker": "Services\\UserServices.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Services\\UserServices.cs",
               "RelativeToolTip": "Services\\UserServices.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAjwEoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,11 +248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "UnableToRegisterException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\UnableToRegisterException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\UnableToRegisterException.cs",
               "RelativeDocumentMoniker": "Exceptions\\UnableToRegisterException.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\UnableToRegisterException.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\UnableToRegisterException.cs",
               "RelativeToolTip": "Exceptions\\UnableToRegisterException.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,11 +261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "UnauthorizedUserException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\UnauthorizedUserException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\UnauthorizedUserException.cs",
               "RelativeDocumentMoniker": "Exceptions\\UnauthorizedUserException.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\UnauthorizedUserException.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\UnauthorizedUserException.cs",
               "RelativeToolTip": "Exceptions\\UnauthorizedUserException.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,11 +274,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "NoUserFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\NoUserFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\NoUserFoundException.cs",
               "RelativeDocumentMoniker": "Exceptions\\NoUserFoundException.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\NoUserFoundException.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\NoUserFoundException.cs",
               "RelativeToolTip": "Exceptions\\NoUserFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -287,11 +287,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Repositories\\UserRepository.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAQwDUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,11 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "EmptyListException.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\EmptyListException.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\EmptyListException.cs",
               "RelativeDocumentMoniker": "Exceptions\\EmptyListException.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\EmptyListException.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Exceptions\\EmptyListException.cs",
               "RelativeToolTip": "Exceptions\\EmptyListException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,11 +313,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "PizzaController.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Controllers\\PizzaController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Controllers\\PizzaController.cs",
               "RelativeDocumentMoniker": "Controllers\\PizzaController.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Controllers\\PizzaController.cs",
               "RelativeToolTip": "Controllers\\PizzaController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -326,11 +326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "IPizzaService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IPizzaService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IPizzaService.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IPizzaService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IPizzaService.cs",
               "RelativeToolTip": "Interfaces\\IPizzaService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwAcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -339,11 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "UserRegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\UserRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\UserRegisterDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTO\\UserRegisterDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\UserRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\UserRegisterDTO.cs",
               "RelativeToolTip": "Models\\DTO\\UserRegisterDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,11 +352,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "PizzaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\PizzaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\PizzaDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTO\\PizzaDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\PizzaDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\PizzaDTO.cs",
               "RelativeToolTip": "Models\\DTO\\PizzaDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,11 +365,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "UserLoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\UserLoginDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTO\\UserLoginDTO.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\DTO\\UserLoginDTO.cs",
               "RelativeToolTip": "Models\\DTO\\UserLoginDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -378,11 +378,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IUserService.cs",
               "RelativeToolTip": "Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,11 +391,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "Interfaces\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,11 +404,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Error.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\Error.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\Error.cs",
               "RelativeDocumentMoniker": "Models\\Error.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\Error.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\Error.cs",
               "RelativeToolTip": "Models\\Error.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -417,11 +417,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "UserCredential.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\UserCredential.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\UserCredential.cs",
               "RelativeDocumentMoniker": "Models\\UserCredential.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\UserCredential.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\UserCredential.cs",
               "RelativeToolTip": "Models\\UserCredential.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,11 +430,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

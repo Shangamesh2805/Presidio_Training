@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day28\\LINQUnderstandingSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A110F4C-A20E-4F7C-BD4E-52F121A78A65}|LINQUnderstandingAPP\\LINQUnderstandingAPP.csproj|c:\\users\\vc\\downloads\\daily_progress\\day28\\linqunderstandingsolution\\linqunderstandingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A110F4C-A20E-4F7C-BD4E-52F121A78A65}|LINQUnderstandingAPP\\LINQUnderstandingAPP.csproj|solutionrelative:linqunderstandingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VC\\Downloads\\Daily_progress\\Day28\\LINQUnderstandingSolution\\LINQUnderstandingAPP\\Model\\pubsContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LINQUnderstandingAPP\\Model\\pubsContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pubsContext.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day28\\LINQUnderstandingSolution\\LINQUnderstandingAPP\\Model\\pubsContext.cs",
+              "RelativeDocumentMoniker": "LINQUnderstandingAPP\\Model\\pubsContext.cs",
+              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day28\\LINQUnderstandingSolution\\LINQUnderstandingAPP\\Model\\pubsContext.cs",
+              "RelativeToolTip": "LINQUnderstandingAPP\\Model\\pubsContext.cs",
+              "ViewState": "AQIAALkBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:19:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day28\\LINQUnderstandingSolution\\LINQUnderstandingAPP\\Program.cs",
+              "RelativeDocumentMoniker": "LINQUnderstandingAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day28\\LINQUnderstandingSolution\\LINQUnderstandingAPP\\Program.cs",
+              "RelativeToolTip": "LINQUnderstandingAPP\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAA1wE4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:15:44.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 684,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

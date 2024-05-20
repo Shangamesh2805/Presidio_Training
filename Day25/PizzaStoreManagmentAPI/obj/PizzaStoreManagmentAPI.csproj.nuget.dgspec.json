@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\PizzaStoreManagmentAPI.csproj": {}
+    "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\PizzaStoreManagmentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\PizzaStoreManagmentAPI.csproj": {
+    "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\PizzaStoreManagmentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\PizzaStoreManagmentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\PizzaStoreManagmentAPI.csproj",
         "projectName": "PizzaStoreManagmentAPI",
-        "projectPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\PizzaStoreManagmentAPI.csproj",
+        "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\PizzaStoreManagmentAPI.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day25\\PizzaStoreManagmentAPI\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Desktop\\Task1\\Day25\\PizzaStoreManagmentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
