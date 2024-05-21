@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+ONAvubj31+YFSy3FZpvu9S1B42HY7GrixsR/4r1Fv4zoR4eqgVW28g/fp54dx11XE+aFVQBOy/Ib3a+3cqvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day29_Mini_Project\\VideoStoreManagmentSoln\\VideoStoreManagmentAPI\\VideoStoreManagmentAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
