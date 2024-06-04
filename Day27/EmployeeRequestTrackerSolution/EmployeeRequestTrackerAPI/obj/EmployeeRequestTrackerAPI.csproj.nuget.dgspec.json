@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VC\\Downloads\\Daily_progress\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\EmployeeRequestTrackerAPI.csproj": {}
+    "C:\\Users\\VC\\Desktop\\Task1\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\EmployeeRequestTrackerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VC\\Downloads\\Daily_progress\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\EmployeeRequestTrackerAPI.csproj": {
+    "C:\\Users\\VC\\Desktop\\Task1\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\EmployeeRequestTrackerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\EmployeeRequestTrackerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\VC\\Desktop\\Task1\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\EmployeeRequestTrackerAPI.csproj",
         "projectName": "EmployeeRequestTrackerAPI",
-        "projectPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\EmployeeRequestTrackerAPI.csproj",
+        "projectPath": "C:\\Users\\VC\\Desktop\\Task1\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\EmployeeRequestTrackerAPI.csproj",
         "packagesPath": "C:\\Users\\VC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VC\\Downloads\\Daily_progress\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\obj\\",
+        "outputPath": "C:\\Users\\VC\\Desktop\\Task1\\Day27\\EmployeeRequestTrackerSolution\\EmployeeRequestTrackerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
