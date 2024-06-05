@@ -1,0 +1,152 @@
+body {
+    background-color: #222831;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #393e46;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.brand {
+    font-size: 1.5em;
+}
+
+.btn-rounded, .btn-rounded-light {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn-rounded {
+    background-color: #00adb5;
+    color: white;
+}
+
+.btn-rounded-light {
+    background-color: white;
+    color: #00adb5;
+    border: 1px solid #00adb5;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.header-div {
+    flex: 1;
+    height: 2px;
+    background-color: #00adb5;
+    margin: 0 10px;
+}
+
+.section-title {
+    font-size: 1.5em;
+    color: #eeeeee;
+}
+
+.profile-section {
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.img-container {
+    margin-right: 20px;
+}
+
+.name {
+    font-size: 1.5em;
+    color: #eeeeee;
+}
+
+.basic-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.basic-details span {
+    margin: 5px 0;
+    color: #eeeeee;
+}
+
+.description {
+    margin: 10px 0;
+    color: #eeeeee;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #393e46;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    width: calc(33.333% - 40px);
+}
+
+.card-title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.hobby-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+
+.contact-form label {
+    color: #eeeeee;
+    margin-bottom: 5px;
+}
+
+.contact-form .input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #eeeeee;
+    border-radius: 5px;
+    background-color: #393e46;
+    color: white;
+}
+
+.contact-form .btn-rounded-light {
+    align-self: flex-start;
+}
+
+.project-link {
+    color: #00adb5;
+    text-decoration: none;
+}
