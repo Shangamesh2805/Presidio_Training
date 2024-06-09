@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1976d3;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .login-container {
+            background-color:  #1976d3;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+            text-align: center;
+            color: white;
+        }
+        .login-container img {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+        }
+        .login-container input[type="text"],
+        .login-container input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: none;
+            border-radius: 5px;
+        }
+        .login-container input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #0056b3;
+            border: none;
+            border-radius: 5px;
+            color: #ffffff;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .login-container input[type="submit"]:hover {
+            background-color: #003f88;
+        }
+        .login-container .forgot-password {
+            margin-top: 10px;
+            font-size: 0.9em;
+        }
+        .login-container .forgot-password a {
+            color: #ffffff;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="login-container">
+        <img src="Media/cart.jpeg" alt="Logo">
+        <form>
+            <input type="text" placeholder="USERNAME" required>
+            <input type="password" placeholder="PASSWORD" required>
+            <input type="submit" value="LOGIN">
+            <p class="forgot-password"><a href="#">Forgot password?</a></p>
+        </form>
+    </div>
+
+</body>
+</html>

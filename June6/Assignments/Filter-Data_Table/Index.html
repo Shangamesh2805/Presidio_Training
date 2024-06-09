@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Table </title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .status {
+            padding: 5px 10px;
+            border-radius: 12px;
+            color: #fff;
+            text-align: center;
+            width: 60px;
+        }
+        .status-open { background-color: #41c1e5; }
+        .status-paid { background-color: #28a745; }
+        .status-inactive { background-color: #6c757d; }
+        .status-due { background-color: #dc3545; }
+        .balance-negative { color: #dc3545; }
+        .balance-positive { color: #28a745; }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="d-flex justify-content-between mb-3">
+            <input type="text" id="searchInput" class="form-control w-50" placeholder="Search...">
+            <button class="btn btn-primary">+ Add Customer</button>
+        </div>
+        <table class="table table-bordered table-hover" id="dataTable">
+            <thead class="thead-light">
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Status</th>
+                    <th>Rate</th>
+                    <th>Balance</th>
+                    <th>Deposit</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Eren Jaeger</td>
+                    <td>Hello all I newly joined this company.Have a nice day friends</td>
+                    <td><span class="status status-open">Open</span></td>
+                    <td>$70.00 CAD</td>
+                    <td><span class="balance-negative">-$270.00 CAD</span></td>
+                    <td>$500.00 CAD</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Ajayr</td>
+                    <td>Hello all I newly joined this company.Have a nice day friends</td>
+                    <td><span class="status status-paid">Paid</span></td>
+                    <td>$70.00 CAD</td>
+                    <td><span class="balance-positive">$270.00 CAD</span></td>
+                    <td>$500.00 CAD</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Rammu</td>
+                    <td>Hello all I newly joined this company.Have a nice day friends</td>
+                    <td><span class="status status-open">Open</span></td>
+                    <td>$70.00 CAD</td>
+                    <td><span class="balance-negative">-$20.00 CAD</span></td>
+                    <td>$500.00 CAD</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Jack</td>
+                    <td>Hello all I newly joined this company.Have a nice day friends</td>
+                    <td><span class="status status-inactive">Inactive</span></td>
+                    <td>$70.00 CAD</td>
+                    <td><span class="balance-positive">$600.00 CAD</span></td>
+                    <td>$500.00 CAD</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Mikasa</td>
+                    <td>Hello all I newly joined this company.Have a nice day friends</td>
+                    <td><span class="status status-open">Open</span></td>
+                    <td>$70.00 CAD</td>
+                    <td><span class="balance-negative">-$350.00 CAD</span></td>
+                    <td>$500.00 CAD</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Rock</td>
+                    <td>Hello all I newly joined this company.Have a nice day friends</td>
+                    <td><span class="status status-paid">Paid</span></td>
+                    <td>$70.00 CAD</td>
+                    <td><span class="balance-negative">-$270.00 CAD</span></td>
+                    <td>$500.00 CAD</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Baki</td>
+                    <td>Hello all I newly joined this company.Have a nice day friends</td>
+                    <td><span class="status status-due">Due</span></td>
+                    <td>$70.00 CAD</td>
+                    <td><span class="balance-positive">$30.00 CAD</span></td>
+                    <td>$500.00 CAD</td>
+                </tr>
+
+                <tr>
+                    <td>8</td>
+                    <td>Sabarna</td>
+                    <td>Hello all I newly joined this company.Have a nice day friends</td>
+                    <td><span class="status status-due">Due</span></td>
+                    <td>$40.00 CAD</td>
+                    <td><span class="balance-negative">-$10.00 CAD</span></td>
+                    <td>$100.00 CAD</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Larrot</td>
+                    <td>Hello all I newly joined this company.Have a nice day friends</td>
+                    <td><span class="status status-due">Due</span></td>
+                    <td>$70.00 CAD</td>
+                    <td><span class="balance-positive">$30.00 CAD</span></td>
+                    <td>$500.00 CAD</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    </body>
+</html>
