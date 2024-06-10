@@ -4,22 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Table </title>
-    <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
         .status {
             padding: 5px 10px;
             border-radius: 12px;
-            color: #fff;
+            color: #f1e3e3;
             text-align: center;
             width: 60px;
         }
-        .status-open { background-color: #41c1e5; }
-        .status-paid { background-color: #28a745; }
-        .status-inactive { background-color: #6c757d; }
-        .status-due { background-color: #dc3545; }
-        .balance-negative { color: #dc3545; }
-        .balance-positive { color: #28a745; }
+        .status-open { background-color: #41c1e5;}
+        .status-paid { background-color: #28a745;}
+        .status-inactive { background-color: #6c757d;}
+        .status-due { background-color: #dc3545;}
+        .balance-negative { color: #dc3545;}
+        .balance-positive { color: #28a745;}
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            .d-flex {
+                flex-direction: column;
+            }
+            .w-50 {
+                width: 100%;
+            }
+            .table-responsive {
+                overflow-x: auto;
+            }
+        }
+
     </style>
 </head>
 <body>
@@ -28,8 +43,9 @@
             <input type="text" id="searchInput" class="form-control w-50" placeholder="Search...">
             <button class="btn btn-primary">+ Add Customer</button>
         </div>
+        <div class="table-responsive">
         <table class="table table-bordered table-hover" id="dataTable">
-            <thead class="thead-light">
+            <thead class="thead-dark">
                 <tr>
                     <th>#</th>
                     <th>Name</th>
@@ -126,6 +142,6 @@
             </tbody>
         </table>
     </div>
-
+    </div>
     </body>
 </html>
