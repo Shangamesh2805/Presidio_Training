@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Registration Page</title>
+    <script src="registerscript.js" defer></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .error {
+            border: 2px solid red;
+            box-shadow: 5px 5px pink;
+        }
+        .correct {
+            border: 2px solid green;
+            box-shadow: 5px 5px lightgreen;
+        }
+        .errmsg {
+            font-size: small;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container d-flex flex-column justify-content-center align-items-center vh-100">
+        <h1>Registration Page</h1>
+        <div class="w-50">
+            <div class="mb-3">
+                <input type="text" id="name" name="name" class="form-control" placeholder="Enter name" onblur="validateName()" />
+                <div class="errmsg" id="errorMsgName"></div>
+            </div>
+            <div class="mb-3">
+                <input type="text" id="phone" name="phone" class="form-control" placeholder="Enter phone" onblur="validatePhone()" />
+                <div class="errmsg" id="errorMsgPh"></div>
+            </div>
+            <div class="mb-3">
+                <input type="date" id="dob" name="dob" class="form-control" onblur="validateDob()" />
+                <div class="errmsg" id="errorMsgDob"></div>
+            </div>
+            <div class="mb-3">
+                <input type="email" id="email" name="email" class="form-control" placeholder="Enter email" onblur="validateEmail()" />
+                <div class="errmsg" id="errorMsgEm"></div>
+            </div>
+            <div class="mb-3">
+                <input type="number" id="age" name="age" class="form-control" placeholder="Age" readonly />
+            </div>
+            <div class="mb-3 form-check">
+                <input type="checkbox" name="qualification" id="qualification" class="form-check-input" />
+                <label for="qualification" class="form-check-label">Qualification</label>
+            </div>
+            <div class="mb-3">
+                <input type="radio" name="gender" id="male" value="male" class="form-check-input" />
+                <label for="male" class="form-check-label">Male</label>
+            </div>
+            <div class="mb-3">
+                <input type="radio" name="gender" id="female" value="female" class="form-check-input" />
+                <label for="female" class="form-check-label">Female</label>
+            </div>
+            <div class="mb-3">
+                <input list="professions" id="profession" class="form-control">
+                <datalist id="professions">
+                    <option value="Engineer">
+                    <option value="Doctor">
+                    <option value="Teacher">
+                    <option value="Accountant">
+                    <option value="Farmer">
+                </datalist>
+            </div>
+            <div>
+                <button onclick="buttonClick()" class="btn btn-success">Register</button>
+                <div class="errmsg mt-2" id="buttondiv"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
