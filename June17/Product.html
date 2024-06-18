@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <style>
+        .product-card {
+            margin-bottom: 20px;
+            background-color: rgb(170, 227, 237);
+        }
+        .product-card img {
+            height: 200px;
+            width: 150px;
+            object-fit: cover;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body style="background-color: beige;">
+    <div class="container mt-5">
+        <h1>Product Details</h1>
+        <button class="btn btn-primary mb-4" onclick="fetchProducts()">Get Products</button>
+        <div id="divProducts" class="row"></div>
+    </div>
+
+    <script>
+        const fetchProducts = async () => {
+            try {
+                const response = await fetch('https://dummyjson.com/products');
+                const data = await response.json();
+                displayProducts(data.products);
+            } catch (error) {
+                console.error('Error fetching products:', error);
+            }
+        };
+
+        const displayProducts = (products) => {
+            const divProducts = document.getElementById('divProducts');
+            divProducts.innerHTML = products.map(product => `
+                <div class="col-md-4">
+                    <div class="card product-card">
+                        <img src="${product.thumbnail}" class="card-img-top" alt="${product.title}">
+                        <div class="card-body">
+                            <h5 class="card-title">${product.title}</h5>
+                            <p class="card-text">${product.description}</p>
+                            <p class="card-text"><strong>Price:</strong> $${product.price}</p>
+                            <p class="card-text"><strong>Rating:</strong> ${product.rating} </p>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        };
+    </script>
+</body>
+</html>
