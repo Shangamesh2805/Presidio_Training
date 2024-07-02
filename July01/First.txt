@@ -1,0 +1,6 @@
+Name: Shnga
+Date of Birth: 2002-12-26
+Phone: 1234567890
+Email: a@gmail.com
+Age: 21 years
+
