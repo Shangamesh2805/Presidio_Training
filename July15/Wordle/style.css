@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(135deg, #ece9e6 0%, #ffffff 100%);
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #333;
+    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 20px;
+}
+
+#game-board {
+    display: grid;
+    grid-template-columns: repeat(5, 50px);
+    gap: 10px;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.cell {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #ccc;
+    font-size: 1.5em;
+    background-color: #fff;
+}
+
+.correct {
+    background-color: #6aaa64;
+}
+
+.present {
+    background-color: #c9b458;
+}
+
+.absent {
+    background-color: #787c7e;
+}
+
+#keyboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.keyboard-row {
+    display: flex;
+    gap: 5px;
+}
+
+.key, #enter, #delete {
+    padding: 10px 15px;
+    font-size: 1em;
+    cursor: pointer;
+    background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.key {
+    width: 35px;
+}
+
+#enter, #delete {
+    width: 70px;
+}
+
+#enter-delete-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
