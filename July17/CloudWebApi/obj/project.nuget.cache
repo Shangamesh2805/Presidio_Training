@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcDUbbyL5WaIIp3NKZ61sBKKlUHifAly8DyEeLCelA3crfnwULE67/l5/hiK4UtYskUal7iMqsH+3vtMP4TFhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VC\\Downloads\\Daily_progress\\July17\\CloudWebApi\\CloudWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\VC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
